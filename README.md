@@ -1,5 +1,9 @@
 # Plotly-Biodiversity-Belly-Botton
+## Overview
+Visualizing the bacterial data for each volunteer and their ability to  identify the top 10 bacterial species in their belly buttons.
 
+## Results
+Creation of Horizontal Bar Chart,bubble Chart,gauge Chart and a customized Dashboard
 
 
 
